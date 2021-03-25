@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "ceshi/Classes/**/*"
+  "source_files": "ceshi/Classes/**/*",
+  "resource_bundles": {
+    "ceshi": [
+      "ceshi/Assets/*.jpg"
+    ]
+  }
 }

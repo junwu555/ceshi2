@@ -7,73 +7,85 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5701FBA7352FE8A070D819D6933E2037 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		010799686B772324F6E8A0E60C60AB69 /* 123.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBE3F5F687FFD24DC647B39AFB327A89 /* 123.jpg */; };
+		153B3836C14EC4C53D0BE4BA2AA99F38 /* ceshi-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FE21D04C3DBF9669E07971B330E2B3FE /* ceshi-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2E0DEB0FA497B24FB9DAEBECBD3C3FA2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		46018E8333C11FEB8550530102FFB0E1 /* FTCloud.h in Headers */ = {isa = PBXBuildFile; fileRef = AAB79EF66EB6E11C4CCFB398506565FE /* FTCloud.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7617364596CD1B2B1AB31297FF5790D3 /* ceshi.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6AC0DDD1B19B721FC482E41BB50E7A4F /* ceshi.bundle */; };
 		7BF06B6E6349AB4FD5134238DE705B71 /* Pods-ceshi_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F904CB0B9C16FB2E7597BAE30AFB61F2 /* Pods-ceshi_Tests-dummy.m */; };
 		89CF082B1B8052FBF7760477A71D48F3 /* Pods-ceshi_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB0AD4BCFA69E6F2947742C3BA48794F /* Pods-ceshi_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8E39C80F36673824EBFC890368BE6C11 /* FTCloud.h in Headers */ = {isa = PBXBuildFile; fileRef = 87E5880C8C4F22E1C3F0FCA9F427C0D0 /* FTCloud.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9428AAF39790AFC5876BBA208C3C061D /* Pods-ceshi_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB374530C1080AD4FF1D98E70B9A23A2 /* Pods-ceshi_Example-dummy.m */; };
 		9828610FA15929FE98121C569A5E1446 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		BA0355088155794043FEAA5665958FB2 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = AB933C272D3A72DFC743302C8FACBAFA /* ReplaceMe.m */; };
+		999D7564DC478AE328984B994E4E880A /* FTCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = F6A45508D106CE155CB5E66C5A9899ED /* FTCloud.m */; };
+		9A80179AA7B337BBA4206347EBA8D252 /* ceshi-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D9A3009990E525F679B8A9BF89A501CB /* ceshi-dummy.m */; };
 		BCC3D54479B264100B5B17F3BC4B3A0B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		C52DEBF136F37961A33920B29A249BCB /* Pods-ceshi_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F53765B0A2D8852293DFDC82B17E247 /* Pods-ceshi_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C98964A15F716A5D2620F91C7003F7EF /* FTCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 50E65ACD3E00A1A3A577933A1FA4A981 /* FTCloud.m */; };
-		D48929059A8E15797D70ED8A4E15D517 /* ceshi-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FC2E9F2F947C7E9C53373B645400B287 /* ceshi-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DEF7AD01873D1D208FC8EA7B5F1C1405 /* ceshi-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FF81ED774736874987CE9D53A26263E0 /* ceshi-dummy.m */; };
+		E8AA5263310AAE7D815E3029F18EED68 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 533CDD40C0BBD75A1C622F1D127048CB /* ReplaceMe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		03D1E22C6F85F1CD631C23900DDF88EC /* PBXContainerItemProxy */ = {
+		5F925F225C172E8F47AF2486D9447089 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F54D47B20952448927A3FCB623F3B79A;
 			remoteInfo = "Pods-ceshi_Example";
 		};
-		33ED82A156B3EA7F84C1254CD51CB2EB /* PBXContainerItemProxy */ = {
+		DFDAE361CC1655737C3A732860D63839 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = CA5327F6784EB6258CD1BB586236D9CA;
 			remoteInfo = ceshi;
 		};
+		EED2EE3A8C81EB389CD5586C11EC97D3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5C7A57CC8AD1409E9FBA060B5FE43178;
+			remoteInfo = "ceshi-ceshi";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		10CD0350A68CD11D551A379D9DCA86B0 /* ceshi.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ceshi.modulemap; sourceTree = "<group>"; };
+		12D6C4907459C4A8E9BA05568B2B7664 /* ceshi-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ceshi-prefix.pch"; sourceTree = "<group>"; };
+		135533C3C9533E8190621CBA0D4110B0 /* ceshi.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ceshi.modulemap; sourceTree = "<group>"; };
 		1AB33438523F7FAE4D68DC74B5C8325E /* Pods-ceshi_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ceshi_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1C5CA6B986AAF5CF17A64AACA1CB6DE6 /* Pods-ceshi_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ceshi_Example.modulemap"; sourceTree = "<group>"; };
 		1CA2512DB280F86BECA2B5145E5D3F7F /* Pods-ceshi_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceshi_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		230627B0548FFEAE1DC7DB045690DB0F /* ceshi-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ceshi-prefix.pch"; sourceTree = "<group>"; };
+		25868F8CCD0D58D796EAE131E25BC403 /* ceshi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ceshi.debug.xcconfig; sourceTree = "<group>"; };
 		279A876E7B30FF173C7CF16BA432542A /* Pods-ceshi_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceshi_Example.release.xcconfig"; sourceTree = "<group>"; };
+		2EDF2D5498C27B0F9024CC189D0FF623 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		31E7303600037738DD49E72C341A35A2 /* Pods-ceshi_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ceshi_Tests-Info.plist"; sourceTree = "<group>"; };
-		35DC2F44561182A73F7E4F600BA2DBCB /* ceshi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ceshi.release.xcconfig; sourceTree = "<group>"; };
-		44CC82AF641DDAFC19EEBDDC128DC23F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		4F53765B0A2D8852293DFDC82B17E247 /* Pods-ceshi_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ceshi_Tests-umbrella.h"; sourceTree = "<group>"; };
-		50E65ACD3E00A1A3A577933A1FA4A981 /* FTCloud.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FTCloud.m; path = ceshi/Classes/FTCloud.m; sourceTree = "<group>"; };
-		5A0E2BF3B088D3D1C40BABD344785390 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		5D7E952E81B056AFC4F8FB35FCBE09E7 /* ceshi.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ceshi.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		533CDD40C0BBD75A1C622F1D127048CB /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = ceshi/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		634A6DEA98064A22198D5F49D3089A6F /* ceshi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ceshi.release.xcconfig; sourceTree = "<group>"; };
 		63C0015DC6C323FB8DC47E6272A1C598 /* Pods-ceshi_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ceshi_Example-Info.plist"; sourceTree = "<group>"; };
 		682307F2D4208F524B9205B9DE82D471 /* Pods-ceshi_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceshi_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		6AC0DDD1B19B721FC482E41BB50E7A4F /* ceshi.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = ceshi.bundle; path = "ceshi-ceshi.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7B3CB8B917EB96DA4FFBF28C1A5D6BF0 /* Pods-ceshi_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceshi_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		7CC75974C0F4DEA442ACECA8816E73CF /* ResourceBundle-ceshi-ceshi-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-ceshi-ceshi-Info.plist"; sourceTree = "<group>"; };
 		7E8099CDB0323CC92BFDE1A66083090C /* Pods-ceshi_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ceshi_Example-frameworks.sh"; sourceTree = "<group>"; };
 		813B2F6883DA30A90F66C5F2F3E1F3BB /* Pods_ceshi_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ceshi_Tests.framework; path = "Pods-ceshi_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		87E5880C8C4F22E1C3F0FCA9F427C0D0 /* FTCloud.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FTCloud.h; path = ceshi/Classes/FTCloud.h; sourceTree = "<group>"; };
-		893A03BCA21E78192695DE47BB7A802F /* ceshi-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ceshi-Info.plist"; sourceTree = "<group>"; };
+		8F75DFC214D0B206139901146F695F1E /* ceshi-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ceshi-Info.plist"; sourceTree = "<group>"; };
 		93A13AF1BB9B1B3C21A0DE70874D5D58 /* ceshi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ceshi.framework; path = ceshi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AB933C272D3A72DFC743302C8FACBAFA /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = ceshi/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		AAB79EF66EB6E11C4CCFB398506565FE /* FTCloud.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FTCloud.h; path = ceshi/Classes/FTCloud.h; sourceTree = "<group>"; };
 		AEDA63C2D545ABDF9F663E9B392F7E33 /* Pods_ceshi_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ceshi_Example.framework; path = "Pods-ceshi_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BFFE3FD9A939516BF33381B14EEE3847 /* ceshi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ceshi.debug.xcconfig; sourceTree = "<group>"; };
+		BBE3F5F687FFD24DC647B39AFB327A89 /* 123.jpg */ = {isa = PBXFileReference; includeInIndex = 1; name = 123.jpg; path = ceshi/Assets/123.jpg; sourceTree = "<group>"; };
+		BD9BDE7680752823675DD33E1FEA6E82 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		C16DE1B02DA9CEAB432BFA2330810D93 /* ceshi.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ceshi.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D9A3009990E525F679B8A9BF89A501CB /* ceshi-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ceshi-dummy.m"; sourceTree = "<group>"; };
 		DB0AD4BCFA69E6F2947742C3BA48794F /* Pods-ceshi_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ceshi_Example-umbrella.h"; sourceTree = "<group>"; };
 		DB374530C1080AD4FF1D98E70B9A23A2 /* Pods-ceshi_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ceshi_Example-dummy.m"; sourceTree = "<group>"; };
 		DBFA3BB7366C8FCDFCD2EAB49DCD9638 /* Pods-ceshi_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ceshi_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F11F29E7C08A3B6F194E1FD6CA5A0FBE /* Pods-ceshi_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ceshi_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		F1E709983D325DDEA34D9CF1A996BBC9 /* Pods-ceshi_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ceshi_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		F6A45508D106CE155CB5E66C5A9899ED /* FTCloud.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FTCloud.m; path = ceshi/Classes/FTCloud.m; sourceTree = "<group>"; };
 		F904CB0B9C16FB2E7597BAE30AFB61F2 /* Pods-ceshi_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ceshi_Tests-dummy.m"; sourceTree = "<group>"; };
-		FC2E9F2F947C7E9C53373B645400B287 /* ceshi-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ceshi-umbrella.h"; sourceTree = "<group>"; };
+		FE21D04C3DBF9669E07971B330E2B3FE /* ceshi-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ceshi-umbrella.h"; sourceTree = "<group>"; };
 		FF538E13748AE829146EFF920B501F9C /* Pods-ceshi_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ceshi_Tests.modulemap"; sourceTree = "<group>"; };
-		FF81ED774736874987CE9D53A26263E0 /* ceshi-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ceshi-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +97,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		5E77E31954074F6DE25ABFB6A4230D90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2E0DEB0FA497B24FB9DAEBECBD3C3FA2 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		7CB03DF65E758C1BE8EE2B88B4164ABB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -93,11 +113,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		87A451686373C8400CC0DEF42E3F3DC3 /* Frameworks */ = {
+		A04389422BC756B72791056976839039 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5701FBA7352FE8A070D819D6933E2037 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,16 +140,17 @@
 			path = "Target Support Files/Pods-ceshi_Example";
 			sourceTree = "<group>";
 		};
-		532CE5E71410360C3BFAF3A527333F9C /* Support Files */ = {
+		5364939D403B4830CE980F3982736FD4 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				10CD0350A68CD11D551A379D9DCA86B0 /* ceshi.modulemap */,
-				FF81ED774736874987CE9D53A26263E0 /* ceshi-dummy.m */,
-				893A03BCA21E78192695DE47BB7A802F /* ceshi-Info.plist */,
-				230627B0548FFEAE1DC7DB045690DB0F /* ceshi-prefix.pch */,
-				FC2E9F2F947C7E9C53373B645400B287 /* ceshi-umbrella.h */,
-				BFFE3FD9A939516BF33381B14EEE3847 /* ceshi.debug.xcconfig */,
-				35DC2F44561182A73F7E4F600BA2DBCB /* ceshi.release.xcconfig */,
+				135533C3C9533E8190621CBA0D4110B0 /* ceshi.modulemap */,
+				D9A3009990E525F679B8A9BF89A501CB /* ceshi-dummy.m */,
+				8F75DFC214D0B206139901146F695F1E /* ceshi-Info.plist */,
+				12D6C4907459C4A8E9BA05568B2B7664 /* ceshi-prefix.pch */,
+				FE21D04C3DBF9669E07971B330E2B3FE /* ceshi-umbrella.h */,
+				25868F8CCD0D58D796EAE131E25BC403 /* ceshi.debug.xcconfig */,
+				634A6DEA98064A22198D5F49D3089A6F /* ceshi.release.xcconfig */,
+				7CC75974C0F4DEA442ACECA8816E73CF /* ResourceBundle-ceshi-ceshi-Info.plist */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/ceshi";
@@ -144,27 +164,6 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		75029C868F7965B1620FF72A0D1BD0D2 /* ceshi */ = {
-			isa = PBXGroup;
-			children = (
-				87E5880C8C4F22E1C3F0FCA9F427C0D0 /* FTCloud.h */,
-				50E65ACD3E00A1A3A577933A1FA4A981 /* FTCloud.m */,
-				AB933C272D3A72DFC743302C8FACBAFA /* ReplaceMe.m */,
-				AAE628CE36A0E02357FE5E909D3E379E /* Pod */,
-				532CE5E71410360C3BFAF3A527333F9C /* Support Files */,
-			);
-			name = ceshi;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		7549C3238D2B7B450F6B87B5588B1765 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				75029C868F7965B1620FF72A0D1BD0D2 /* ceshi */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 		88800EBE081812A8820CB8B4E1176160 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -174,14 +173,39 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		AAE628CE36A0E02357FE5E909D3E379E /* Pod */ = {
+		A8501FD98F5CCAE1B69B290BF66074B8 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				5D7E952E81B056AFC4F8FB35FCBE09E7 /* ceshi.podspec */,
-				44CC82AF641DDAFC19EEBDDC128DC23F /* LICENSE */,
-				5A0E2BF3B088D3D1C40BABD344785390 /* README.md */,
+				C16DE1B02DA9CEAB432BFA2330810D93 /* ceshi.podspec */,
+				BD9BDE7680752823675DD33E1FEA6E82 /* LICENSE */,
+				2EDF2D5498C27B0F9024CC189D0FF623 /* README.md */,
 			);
 			name = Pod;
+			sourceTree = "<group>";
+		};
+		AA4553AE9F3D769AACBDDD6458EAED28 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6AC0DDD1B19B721FC482E41BB50E7A4F /* ceshi.bundle */,
+				93A13AF1BB9B1B3C21A0DE70874D5D58 /* ceshi.framework */,
+				AEDA63C2D545ABDF9F663E9B392F7E33 /* Pods_ceshi_Example.framework */,
+				813B2F6883DA30A90F66C5F2F3E1F3BB /* Pods_ceshi_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AC3FCF70DBB3CCE525E62F53CD91128D /* ceshi */ = {
+			isa = PBXGroup;
+			children = (
+				BBE3F5F687FFD24DC647B39AFB327A89 /* 123.jpg */,
+				AAB79EF66EB6E11C4CCFB398506565FE /* FTCloud.h */,
+				F6A45508D106CE155CB5E66C5A9899ED /* FTCloud.m */,
+				533CDD40C0BBD75A1C622F1D127048CB /* ReplaceMe.m */,
+				A8501FD98F5CCAE1B69B290BF66074B8 /* Pod */,
+				5364939D403B4830CE980F3982736FD4 /* Support Files */,
+			);
+			name = ceshi;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		BEA3A6576377584FFE1956D290952D4B /* Pods-ceshi_Tests */ = {
@@ -200,23 +224,13 @@
 			path = "Target Support Files/Pods-ceshi_Tests";
 			sourceTree = "<group>";
 		};
-		C956DB757D2F64B59A914B717CFDB288 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				93A13AF1BB9B1B3C21A0DE70874D5D58 /* ceshi.framework */,
-				AEDA63C2D545ABDF9F663E9B392F7E33 /* Pods_ceshi_Example.framework */,
-				813B2F6883DA30A90F66C5F2F3E1F3BB /* Pods_ceshi_Tests.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				7549C3238D2B7B450F6B87B5588B1765 /* Development Pods */,
+				D9C5A03973BA9DB59701762DF1CD8982 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				C956DB757D2F64B59A914B717CFDB288 /* Products */,
+				AA4553AE9F3D769AACBDDD6458EAED28 /* Products */,
 				88800EBE081812A8820CB8B4E1176160 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -227,6 +241,14 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D9C5A03973BA9DB59701762DF1CD8982 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AC3FCF70DBB3CCE525E62F53CD91128D /* ceshi */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,12 +262,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2E3B73129391737E2CAF3F5ECBA1DCE5 /* Headers */ = {
+		43F4C4FF9FDA0AA19CCF82FA7BCBBDC2 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D48929059A8E15797D70ED8A4E15D517 /* ceshi-umbrella.h in Headers */,
-				8E39C80F36673824EBFC890368BE6C11 /* FTCloud.h in Headers */,
+				153B3836C14EC4C53D0BE4BA2AA99F38 /* ceshi-umbrella.h in Headers */,
+				46018E8333C11FEB8550530102FFB0E1 /* FTCloud.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +282,23 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		5C7A57CC8AD1409E9FBA060B5FE43178 /* ceshi-ceshi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0DBDF3A9A517F9187B8EEAD57C8BA65 /* Build configuration list for PBXNativeTarget "ceshi-ceshi" */;
+			buildPhases = (
+				9099C467B5AC689197F6E0CFEC827DA5 /* Sources */,
+				A04389422BC756B72791056976839039 /* Frameworks */,
+				BEB119707BFFEC703F210AA877C450FE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ceshi-ceshi";
+			productName = "ceshi-ceshi";
+			productReference = 6AC0DDD1B19B721FC482E41BB50E7A4F /* ceshi.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
 		95684A354870DDD802333CA45C4FE93C /* Pods-ceshi_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9F78A568DAF1DF0F316F4377D491804C /* Build configuration list for PBXNativeTarget "Pods-ceshi_Tests" */;
@@ -272,7 +311,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				2D01C1A9957B6178CA6D7EA8C8A00E13 /* PBXTargetDependency */,
+				31F4189277CADF70A7540A4F41C7E57E /* PBXTargetDependency */,
 			);
 			name = "Pods-ceshi_Tests";
 			productName = "Pods-ceshi_Tests";
@@ -281,16 +320,17 @@
 		};
 		CA5327F6784EB6258CD1BB586236D9CA /* ceshi */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DACA35E39BBDA0CBBCD38114B5E3EDA7 /* Build configuration list for PBXNativeTarget "ceshi" */;
+			buildConfigurationList = 55EB7330564F6F3FCB080CB7EC5A1E24 /* Build configuration list for PBXNativeTarget "ceshi" */;
 			buildPhases = (
-				2E3B73129391737E2CAF3F5ECBA1DCE5 /* Headers */,
-				EDDD3C7640459051E726F444D1CE4201 /* Sources */,
-				87A451686373C8400CC0DEF42E3F3DC3 /* Frameworks */,
-				35AB425569B801757495D10090975461 /* Resources */,
+				43F4C4FF9FDA0AA19CCF82FA7BCBBDC2 /* Headers */,
+				D191C65A3DEDD1A06DAB89B39B14DFF0 /* Sources */,
+				5E77E31954074F6DE25ABFB6A4230D90 /* Frameworks */,
+				50D9D037E85976EFD0F0C2D7EC82956D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				BF0E89801E276BD9107DFCE622D723A2 /* PBXTargetDependency */,
 			);
 			name = ceshi;
 			productName = ceshi;
@@ -309,7 +349,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				5F374AA823797CBE958D35A6834798BE /* PBXTargetDependency */,
+				0AD6F0AB15D2D43B74B986172BFE5E71 /* PBXTargetDependency */,
 			);
 			name = "Pods-ceshi_Example";
 			productName = "Pods-ceshi_Example";
@@ -334,11 +374,12 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = C956DB757D2F64B59A914B717CFDB288 /* Products */;
+			productRefGroup = AA4553AE9F3D769AACBDDD6458EAED28 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				CA5327F6784EB6258CD1BB586236D9CA /* ceshi */,
+				5C7A57CC8AD1409E9FBA060B5FE43178 /* ceshi-ceshi */,
 				F54D47B20952448927A3FCB623F3B79A /* Pods-ceshi_Example */,
 				95684A354870DDD802333CA45C4FE93C /* Pods-ceshi_Tests */,
 			);
@@ -346,10 +387,19 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		35AB425569B801757495D10090975461 /* Resources */ = {
+		50D9D037E85976EFD0F0C2D7EC82956D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7617364596CD1B2B1AB31297FF5790D3 /* ceshi.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BEB119707BFFEC703F210AA877C450FE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				010799686B772324F6E8A0E60C60AB69 /* 123.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -386,30 +436,43 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EDDD3C7640459051E726F444D1CE4201 /* Sources */ = {
+		9099C467B5AC689197F6E0CFEC827DA5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEF7AD01873D1D208FC8EA7B5F1C1405 /* ceshi-dummy.m in Sources */,
-				C98964A15F716A5D2620F91C7003F7EF /* FTCloud.m in Sources */,
-				BA0355088155794043FEAA5665958FB2 /* ReplaceMe.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D191C65A3DEDD1A06DAB89B39B14DFF0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A80179AA7B337BBA4206347EBA8D252 /* ceshi-dummy.m in Sources */,
+				999D7564DC478AE328984B994E4E880A /* FTCloud.m in Sources */,
+				E8AA5263310AAE7D815E3029F18EED68 /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2D01C1A9957B6178CA6D7EA8C8A00E13 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-ceshi_Example";
-			target = F54D47B20952448927A3FCB623F3B79A /* Pods-ceshi_Example */;
-			targetProxy = 03D1E22C6F85F1CD631C23900DDF88EC /* PBXContainerItemProxy */;
-		};
-		5F374AA823797CBE958D35A6834798BE /* PBXTargetDependency */ = {
+		0AD6F0AB15D2D43B74B986172BFE5E71 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ceshi;
 			target = CA5327F6784EB6258CD1BB586236D9CA /* ceshi */;
-			targetProxy = 33ED82A156B3EA7F84C1254CD51CB2EB /* PBXContainerItemProxy */;
+			targetProxy = DFDAE361CC1655737C3A732860D63839 /* PBXContainerItemProxy */;
+		};
+		31F4189277CADF70A7540A4F41C7E57E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-ceshi_Example";
+			target = F54D47B20952448927A3FCB623F3B79A /* Pods-ceshi_Example */;
+			targetProxy = 5F925F225C172E8F47AF2486D9447089 /* PBXContainerItemProxy */;
+		};
+		BF0E89801E276BD9107DFCE622D723A2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "ceshi-ceshi";
+			target = 5C7A57CC8AD1409E9FBA060B5FE43178 /* ceshi-ceshi */;
+			targetProxy = EED2EE3A8C81EB389CD5586C11EC97D3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -545,64 +608,19 @@
 			};
 			name = Debug;
 		};
-		4B56AE68A5CB562C4BE581494D3C856A /* Debug */ = {
+		49354A5DA1C774E5AC2022ED28690852 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BFFE3FD9A939516BF33381B14EEE3847 /* ceshi.debug.xcconfig */;
+			baseConfigurationReference = 634A6DEA98064A22198D5F49D3089A6F /* ceshi.release.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ceshi/ceshi-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ceshi/ceshi-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/ceshi";
+				IBSC_MODULE = ceshi;
+				INFOPLIST_FILE = "Target Support Files/ceshi/ResourceBundle-ceshi-ceshi-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ceshi/ceshi.modulemap";
-				PRODUCT_MODULE_NAME = ceshi;
 				PRODUCT_NAME = ceshi;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		646097CEE2C8E5AAB0FAB83E9B6E5DFF /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 35DC2F44561182A73F7E4F600BA2DBCB /* ceshi.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ceshi/ceshi-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ceshi/ceshi-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ceshi/ceshi.modulemap";
-				PRODUCT_MODULE_NAME = ceshi;
-				PRODUCT_NAME = ceshi;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -635,6 +653,22 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B25870741B5DF743D7D8A60CC72B812C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 25868F8CCD0D58D796EAE131E25BC403 /* ceshi.debug.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/ceshi";
+				IBSC_MODULE = ceshi;
+				INFOPLIST_FILE = "Target Support Files/ceshi/ResourceBundle-ceshi-ceshi-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				PRODUCT_NAME = ceshi;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;
 		};
@@ -700,6 +734,36 @@
 			};
 			name = Release;
 		};
+		D60CCE8B741AE41938658A465BCF9B44 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 25868F8CCD0D58D796EAE131E25BC403 /* ceshi.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ceshi/ceshi-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ceshi/ceshi-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ceshi/ceshi.modulemap";
+				PRODUCT_MODULE_NAME = ceshi;
+				PRODUCT_NAME = ceshi;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		DE86DD22BDF3D04024DA068187D39E2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 279A876E7B30FF173C7CF16BA432542A /* Pods-ceshi_Example.release.xcconfig */;
@@ -733,6 +797,37 @@
 			};
 			name = Release;
 		};
+		DF18059B19F477537241860AC047B81D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 634A6DEA98064A22198D5F49D3089A6F /* ceshi.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ceshi/ceshi-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ceshi/ceshi-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ceshi/ceshi.modulemap";
+				PRODUCT_MODULE_NAME = ceshi;
+				PRODUCT_NAME = ceshi;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -754,6 +849,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		55EB7330564F6F3FCB080CB7EC5A1E24 /* Build configuration list for PBXNativeTarget "ceshi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D60CCE8B741AE41938658A465BCF9B44 /* Debug */,
+				DF18059B19F477537241860AC047B81D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		9F78A568DAF1DF0F316F4377D491804C /* Build configuration list for PBXNativeTarget "Pods-ceshi_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -763,11 +867,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DACA35E39BBDA0CBBCD38114B5E3EDA7 /* Build configuration list for PBXNativeTarget "ceshi" */ = {
+		D0DBDF3A9A517F9187B8EEAD57C8BA65 /* Build configuration list for PBXNativeTarget "ceshi-ceshi" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4B56AE68A5CB562C4BE581494D3C856A /* Debug */,
-				646097CEE2C8E5AAB0FAB83E9B6E5DFF /* Release */,
+				B25870741B5DF743D7D8A60CC72B812C /* Debug */,
+				49354A5DA1C774E5AC2022ED28690852 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
