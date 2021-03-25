@@ -1,0 +1,6 @@
+framework module ceshi {
+  umbrella header "ceshi-umbrella.h"
+
+  export *
+  module * { export * }
+}
