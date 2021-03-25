@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of ceshi.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/junwu555/ceshi2/tree/mastre",
+  "homepage": "https://github.com/junwu555/ceshi3",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "junwu555": "1908812367@qq.com"
   },
   "source": {
-    "git": "https://github.com/junwu555/ceshi2.git",
+    "git": "https://github.com/junwu555/ceshi3.git",
     "tag": "0.1.0"
   },
   "platforms": {
